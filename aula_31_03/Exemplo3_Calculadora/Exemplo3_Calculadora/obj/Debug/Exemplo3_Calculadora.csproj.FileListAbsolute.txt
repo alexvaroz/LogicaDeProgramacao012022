@@ -1,0 +1,6 @@
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo3_Calculadora\Exemplo3_Calculadora\bin\Debug\Exemplo3_Calculadora.exe.config
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo3_Calculadora\Exemplo3_Calculadora\bin\Debug\Exemplo3_Calculadora.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo3_Calculadora\Exemplo3_Calculadora\bin\Debug\Exemplo3_Calculadora.pdb
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo3_Calculadora\Exemplo3_Calculadora\obj\Debug\Exemplo3_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo3_Calculadora\Exemplo3_Calculadora\obj\Debug\Exemplo3_Calculadora.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo3_Calculadora\Exemplo3_Calculadora\obj\Debug\Exemplo3_Calculadora.pdb

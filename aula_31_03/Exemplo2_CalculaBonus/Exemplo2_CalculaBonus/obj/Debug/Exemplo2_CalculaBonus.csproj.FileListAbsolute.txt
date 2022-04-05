@@ -1,0 +1,6 @@
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo2_CalculaBonus\Exemplo2_CalculaBonus\bin\Debug\Exemplo2_CalculaBonus.exe.config
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo2_CalculaBonus\Exemplo2_CalculaBonus\bin\Debug\Exemplo2_CalculaBonus.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo2_CalculaBonus\Exemplo2_CalculaBonus\bin\Debug\Exemplo2_CalculaBonus.pdb
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo2_CalculaBonus\Exemplo2_CalculaBonus\obj\Debug\Exemplo2_CalculaBonus.csprojResolveAssemblyReference.cache
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo2_CalculaBonus\Exemplo2_CalculaBonus\obj\Debug\Exemplo2_CalculaBonus.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo2_CalculaBonus\Exemplo2_CalculaBonus\obj\Debug\Exemplo2_CalculaBonus.pdb

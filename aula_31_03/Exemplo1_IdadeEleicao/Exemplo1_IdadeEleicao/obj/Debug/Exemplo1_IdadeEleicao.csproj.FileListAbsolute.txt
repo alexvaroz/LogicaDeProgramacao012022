@@ -1,0 +1,6 @@
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo1_IdadeEleicao\Exemplo1_IdadeEleicao\bin\Debug\Exemplo1_IdadeEleicao.exe.config
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo1_IdadeEleicao\Exemplo1_IdadeEleicao\bin\Debug\Exemplo1_IdadeEleicao.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo1_IdadeEleicao\Exemplo1_IdadeEleicao\bin\Debug\Exemplo1_IdadeEleicao.pdb
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo1_IdadeEleicao\Exemplo1_IdadeEleicao\obj\Debug\Exemplo1_IdadeEleicao.csprojResolveAssemblyReference.cache
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo1_IdadeEleicao\Exemplo1_IdadeEleicao\obj\Debug\Exemplo1_IdadeEleicao.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_31_03\Exemplo1_IdadeEleicao\Exemplo1_IdadeEleicao\obj\Debug\Exemplo1_IdadeEleicao.pdb
