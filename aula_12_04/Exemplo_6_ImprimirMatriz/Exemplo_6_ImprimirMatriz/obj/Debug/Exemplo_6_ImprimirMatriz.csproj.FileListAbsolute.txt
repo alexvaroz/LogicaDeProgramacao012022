@@ -1,0 +1,6 @@
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_12_04\Exemplo_6_ImprimirMatriz\Exemplo_6_ImprimirMatriz\bin\Debug\Exemplo_6_ImprimirMatriz.exe.config
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_12_04\Exemplo_6_ImprimirMatriz\Exemplo_6_ImprimirMatriz\bin\Debug\Exemplo_6_ImprimirMatriz.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_12_04\Exemplo_6_ImprimirMatriz\Exemplo_6_ImprimirMatriz\bin\Debug\Exemplo_6_ImprimirMatriz.pdb
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_12_04\Exemplo_6_ImprimirMatriz\Exemplo_6_ImprimirMatriz\obj\Debug\Exemplo_6_ImprimirMatriz.csprojResolveAssemblyReference.cache
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_12_04\Exemplo_6_ImprimirMatriz\Exemplo_6_ImprimirMatriz\obj\Debug\Exemplo_6_ImprimirMatriz.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_12_04\Exemplo_6_ImprimirMatriz\Exemplo_6_ImprimirMatriz\obj\Debug\Exemplo_6_ImprimirMatriz.pdb

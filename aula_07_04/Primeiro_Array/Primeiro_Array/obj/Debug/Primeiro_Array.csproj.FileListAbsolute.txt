@@ -1,0 +1,6 @@
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_07_04\Primeiro_Array\Primeiro_Array\bin\Debug\Primeiro_Array.exe.config
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_07_04\Primeiro_Array\Primeiro_Array\bin\Debug\Primeiro_Array.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_07_04\Primeiro_Array\Primeiro_Array\bin\Debug\Primeiro_Array.pdb
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_07_04\Primeiro_Array\Primeiro_Array\obj\Debug\Primeiro_Array.csprojResolveAssemblyReference.cache
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_07_04\Primeiro_Array\Primeiro_Array\obj\Debug\Primeiro_Array.exe
+C:\Users\201354\Documents\Codigos_LogicaProgramacao\aula_07_04\Primeiro_Array\Primeiro_Array\obj\Debug\Primeiro_Array.pdb
